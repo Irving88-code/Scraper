@@ -1,0 +1,6 @@
+{
+  "_info": "Selectores para tiendas Shopify",
+  "container": ".grid-product",
+  "name":      ".grid-product__title",
+  "price":     ".grid-product__price"
+}

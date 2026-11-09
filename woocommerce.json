@@ -1,0 +1,6 @@
+{
+  "_info": "Selectores para tiendas WooCommerce (WordPress)",
+  "container": "li.product",
+  "name":      ".woocommerce-loop-product__title",
+  "price":     ".price .woocommerce-Price-amount"
+}

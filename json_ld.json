@@ -1,0 +1,4 @@
+{
+  "_info": "Extrae datos schema.org/Product embebidos en JSON-LD. Funciona en la mayoria de tiendas modernas.",
+  "type": "json_ld"
+}

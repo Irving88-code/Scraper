@@ -1,0 +1,11 @@
+{
+  "_info": "Plantilla personalizada — edita los selectores con el Inspector de tu navegador",
+  "container": ".product-card",
+  "name":      ".product-title",
+  "price":     ".product-price",
+
+  "_opcionales": {
+    "name_attr":  "Atributo HTML del que leer el nombre (ej: 'data-name'). Omitir para usar texto.",
+    "price_attr": "Atributo HTML del que leer el precio (ej: 'data-price'). Omitir para usar texto."
+  }
+}
